@@ -1,6 +1,6 @@
 {
     "name": "searchx32",
-    "repository": "https://github.com/Yogi0090/Tony-Shell",
+    "repository": "https://github.com/Yogi0090/Dumbledore-shell",
     "env": {
         "SUDO_USERS": {
             "description": "",
